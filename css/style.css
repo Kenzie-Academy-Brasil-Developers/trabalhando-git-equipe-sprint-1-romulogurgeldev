@@ -10,6 +10,12 @@ h1 {
     border-bottom: 1px solid rgb(185, 131, 44);
 }
 
+h3 {
+    background-color: #808080; 
+    border:3px solid rgb(185, 131, 44);
+    ; 
+    padding: 5px;
+    }
 
 section div article {
     width: 75%;
